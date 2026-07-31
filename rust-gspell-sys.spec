@@ -5,8 +5,8 @@
 %global crate gspell-sys
 
 Name:           rust-%{crate}
-Version:        0.3.0
-Release:        2%{?dist}
+Version:        0.7.0
+Release:        1%{?dist}
 Summary:        Raw C-FFI bindings for the gspell library
 
 # Upstream license specification: GPL-3.0-or-later
